@@ -1,3 +1,5 @@
+# SMART PREMIUM
+
 Data Loading and Exploration: Utilized a dataset containing customer demographics and policy details to predict insurance premiums.
 
 Exploratory Data Analysis (EDA): Identified patterns and relationships within the data to inform model selection and feature engineering.
